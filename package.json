@@ -17,6 +17,11 @@
   },
   "homepage": "https://github.com/moodyjmz/automatic-fortnight#readme",
   "dependencies": {
+    "es6-dev-server": "0.0.6",
+    "g": "^2.0.1",
     "lit-element": "^3.0.0-pre.3"
+  },
+  "devDependencies": {
+    "@web/dev-server": "^0.1.7"
   }
 }
