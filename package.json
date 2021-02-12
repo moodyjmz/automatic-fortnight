@@ -1,0 +1,22 @@
+{
+  "name": "bad-git",
+  "version": "1.0.0",
+  "description": "Bad git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moodyjmz/automatic-fortnight.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moodyjmz/automatic-fortnight/issues"
+  },
+  "homepage": "https://github.com/moodyjmz/automatic-fortnight#readme",
+  "dependencies": {
+    "lit-element": "^3.0.0-pre.3"
+  }
+}
